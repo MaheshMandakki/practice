@@ -1,3 +1,4 @@
 *.log
-mahesh.info
-test/
+*mahesh.info
+*test/
+
